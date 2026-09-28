@@ -1,0 +1,8 @@
+{
+  "name": "rinuss Neon Reflex",
+  "description": "Futuristic neon arcade reflex game testing your reaction speed with glowing targets and dynamic combos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
